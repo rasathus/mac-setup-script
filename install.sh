@@ -31,6 +31,7 @@ brews=(
   nmap
   readline
   rename
+  telnet
   tmux
   tree
   unrar
