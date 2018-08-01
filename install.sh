@@ -52,6 +52,7 @@ pips=(
   pip
   awscli
   saws
+  cfn-lint
 )
 
 gems=(
