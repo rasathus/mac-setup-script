@@ -62,7 +62,7 @@ npms=(
 )
 
 # gpg_key=''
-# git_email='cfane@evertz.com'
+# git_email='cfane@**********.com'
 # git_configs=(
 #   "branch.autoSetupRebase always"
 #   "color.ui auto"
